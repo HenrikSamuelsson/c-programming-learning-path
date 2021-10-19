@@ -10,6 +10,16 @@ Resources that can be consumed without any prior C programming experience.
 
 C How to Program, Global Edition
 
+### Online Resources
+
+www.hackerank.com
+
+https://www.hackerrank.com/domains/c
+
 ## Middle
+
+Todo the russian book
+
+Todo cert c coding
 
 ## End
